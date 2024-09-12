@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_crud_app", "API_crud_ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq_practiec", "..\Linq_practiec\Linq_practiec.csproj", "{B457B196-0555-4189-8F7C-4A505696046C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New_api_", "..\New_api_\New_api_.csproj", "{4410AB50-17A0-42D2-8B70-058B3D00436D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B457B196-0555-4189-8F7C-4A505696046C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B457B196-0555-4189-8F7C-4A505696046C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B457B196-0555-4189-8F7C-4A505696046C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4410AB50-17A0-42D2-8B70-058B3D00436D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4410AB50-17A0-42D2-8B70-058B3D00436D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4410AB50-17A0-42D2-8B70-058B3D00436D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4410AB50-17A0-42D2-8B70-058B3D00436D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
